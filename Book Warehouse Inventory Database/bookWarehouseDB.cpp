@@ -1,6 +1,6 @@
 // *********************************************************************
 // 
-// Source File: a6_start.cpp
+// Source File: bookWarehouseDB.cpp
 // 
 // Purpose:
 //  This program is a simplified, interactive inventory database
