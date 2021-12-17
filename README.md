@@ -1,2 +1,2 @@
 # misc-cpp
-C/C++ programs
+A collection of C/C++ programs
